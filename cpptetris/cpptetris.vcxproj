@@ -24,6 +24,7 @@
     <ProjectGuid>{e33b3bfe-d82a-4392-bba1-d5a9af03cde7}</ProjectGuid>
     <RootNamespace>cpptetris</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>magaui6</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
