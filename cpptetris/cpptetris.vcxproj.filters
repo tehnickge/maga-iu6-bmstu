@@ -21,12 +21,18 @@
     <ClCompile Include="matrix_sred_aref_column.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
+    <ClCompile Include="matrix_main_deog.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="lib.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="matrix_sred_aref_column.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="matrix_main_deog.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

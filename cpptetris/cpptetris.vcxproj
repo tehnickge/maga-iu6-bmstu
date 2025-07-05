@@ -129,10 +129,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="matrix_main_deog.cpp" />
     <ClCompile Include="matrix_sred_aref_column.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="lib.h" />
+    <ClInclude Include="matrix_main_deog.h" />
     <ClInclude Include="matrix_sred_aref_column.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
